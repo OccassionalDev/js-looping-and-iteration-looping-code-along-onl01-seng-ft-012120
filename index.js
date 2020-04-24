@@ -8,3 +8,5 @@ function writeCards(array, event) {
   }
   return cardArray;
 }
+
+function 
